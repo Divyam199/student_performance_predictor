@@ -3,7 +3,7 @@
 ## 📌 Question
 How are students performing academically, and how do attendance, 
 and subject scores relate to overall percentage?
-Also build a Pass/Fail predictor.
+Also build a Pass/Fail predictor using Machine Learning.
 
 ## 📁 Dataset Overview
 - 12 students, 12 columns
