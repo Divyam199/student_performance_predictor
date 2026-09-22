@@ -54,4 +54,4 @@ more varied dataset.
 A mostly strong Class, with a clear, fixable attendance problem in small group.
 
 ## 🛠️ Tech Used
-Python, Pandas, Machine Learning, Scikit-learn
+Python, Pandas, Machine Learning, Scikit-learn, Matplotlib, Seaborn
